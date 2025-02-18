@@ -14,3 +14,7 @@ This iOS app is a quizlet flashcard review app that utilizes Swift. Users can cr
 3. Build the app with the play button on the top left corner
 4. Open the simulator and the app
 5. The app should successfully build and download
+
+# Resources:
+- https://developer.apple.com/documentation/xcode
+- https://developer.apple.com/documentation/swift/
